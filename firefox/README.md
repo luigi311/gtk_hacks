@@ -12,7 +12,8 @@ Locate firefox-bin, prorbably in /usr/lib/firefox-esr/firefox-bin
 
 In the same folder as libfirefote.so run 
 ```bash
-export LD_PRELOAD="$LD_PRELOAD:./libfiregote.so" /usr/lib/firefox-esr/firefox-bin
+export LD_PRELOAD="$LD_PRELOAD:./libfiregote.so" 
+/usr/lib/firefox-esr/firefox-bin
 ```
 
 you should see something similar to
