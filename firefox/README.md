@@ -2,6 +2,10 @@ Speedup firefox launch speed by Jesus <GranPC> on droidian telegram community
 
 # Usage
 
+## 
+
+Run both build-*.sh scripts so it compiles the two bins that are needed.
+
 ##
 
 Open terminal with all the enviornment so it cant be a ssh terminal, you can open `screen` in a terminal on the phone and then ssh in and do `screen -x` to attach to it
